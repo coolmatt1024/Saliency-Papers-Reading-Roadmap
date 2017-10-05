@@ -1,7 +1,5 @@
 # Saliency-Papers-Reading-Roadmap
-Here are some papers about saliency. 
-
-I divide the papers I read into some parts.
+**Here are some papers about saliency. **
 
 [Applications][1]：Where we can use saliency models.
 
@@ -16,7 +14,7 @@ I divide the papers I read into some parts.
 [CNN][6]: Some instructive papers about CNN architectures,visualization and understanding.
 
 
-There are still some parts I want to add, but I don't have much time so wait me for some time and I will try to finish the repository.
+*There are still some parts I want to add, but I don't have much time so wait me for some time and I will try to finish the repository.*
 
 
   [1]: https://github.com/coolmatt1024/Saliency-Papers-Reading-Roadmap/tree/master/Applications
